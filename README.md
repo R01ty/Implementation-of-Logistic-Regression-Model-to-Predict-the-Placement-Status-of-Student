@@ -36,8 +36,8 @@ End the program.
 ...
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Rahul K
-RegisterNumber: 212221043006
+Developed by: Ragul E
+RegisterNumber: 212221043005
 */
 
 
